@@ -1,6 +1,6 @@
 # Destini 🤔
 
-## Abot the App
+## About the App
 
 A choose your own adventure game like Bandersnatch.
 
